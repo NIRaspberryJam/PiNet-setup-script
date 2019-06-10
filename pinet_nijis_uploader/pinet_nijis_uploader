@@ -1,0 +1,2 @@
+# Run PiNet NIJIS uploader every 5 mins
+*/5 * * * * /opt/pinet_nijis_uploader/pinet_nijis_uploader.sh
